@@ -1,0 +1,77 @@
+/* h1{
+    color: #72165d;
+} */
+.headingh1{
+    color: #68217a;
+}
+table{
+    text-align: center;
+    width: 600px;
+    /* background: #ddd6be; */
+    background-color: #f8efba;
+
+}
+/* thead{
+    background: #fbff07;
+} */
+.table-header{
+    background-color: #ffff00;
+}
+.sat{
+    background-color: #f6b93b;
+}
+.t-name{
+    background-color: #ffcccc;
+}
+.one{
+    background-color: #ee82ee;
+}
+.tow{
+    background: #8e4abe;
+}
+.three{
+    background: #2222fd;
+}
+.four{
+    background: #008000;
+}
+.five{
+    background: #ffff00;
+}
+.six{
+     background: #ffa500;
+}
+.room_Color{
+    background: #adaf2e;
+}
+.class_Time8{
+    background: rgb(231, 98, 98);
+}
+.class_Time10{
+    background: green;
+}
+.class8{
+    background-color: #ff6b81;
+}
+.class10{
+    background-color: #2ed573;
+}
+p{
+    /* background: #e4ddd2ce; */
+    background-color: #b9b5a7;
+    text-align: center;
+    color: rgb(93, 69, 230);
+}
+/* h2{} */
+h3{
+    color: red;
+}
+img{
+    width: 300px;
+}
+h4{ 
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    background-color: rgb(66, 236, 66);
+}
